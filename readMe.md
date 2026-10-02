@@ -16,7 +16,7 @@
 
 This repository contains my **Operating Systems Lab practical work** implemented in C.
 
-The programs focus on fundamental Operating System concepts such as **process creation, parent and child processes.
+The programs focus on fundamental Operating System concepts such as process creation, parent and child processes.
 
 ## Technologies Used
 
