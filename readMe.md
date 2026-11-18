@@ -84,34 +84,6 @@ The practicals cover fundamental Operating System concepts such as process manag
 
 ---
 
-## How to Run the Programs
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repository-link>
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd <repository-folder>
-```
-
-### 3. Compile a C Program
-
-```bash
-gcc filename.c -o output
-```
-
-### 4. Execute the Program
-
-```bash
-./output
-```
-
----
-
 ## Learning Outcomes
 
 Through these practicals, I learned:
